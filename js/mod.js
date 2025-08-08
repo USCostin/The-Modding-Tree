@@ -12,12 +12,12 @@ let modInfo = {
 
 // Set your version in num and name
 let VERSION = {
-	num: "0.0",
-	name: "Literally nothing",
+	num: "0.1",
+	name: "Literally just the name",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
-	<h3>v0.1</h3><br>
+	<h3>v0.1 Literally just the name</h3><br>
 		- Added things.<br>
 		- Added stuff.`
 
@@ -50,7 +50,7 @@ function addedPlayerData() { return {
 }}
 
 // Display extra things at the top of the page
-var displayThings = [
+var displayThings = [ "THIS IS MY FIRST MOD"
 ]
 
 // Determines when the game "ends"
